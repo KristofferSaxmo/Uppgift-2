@@ -1,0 +1,32 @@
+p{
+    font-family: "Comic Sans MS";
+}
+
+h1{
+    font-family: "Arial";
+    font-size: 22px;
+}
+
+h2{
+    font-family: "Comic Sans MS";
+    font-size: 22px;
+}
+
+body{
+background-color:LightSteelBlue;
+}
+
+.p1{
+    text-align: center;
+    color: orange;
+    background-color: purple;
+}
+
+.p2{
+    text-align: right;
+}
+
+.border{
+    border-style: solid;
+    border-color: purple;
+}
